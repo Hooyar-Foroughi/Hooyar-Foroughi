@@ -4,6 +4,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
+
+<p align="center">
+  
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">Vocabulary Sudoku Android App</a></strong></h3>Description...
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Python-Blackjack">Python Blackjack</a></strong></h3>Description...
+- **...**
+- **...**
+
+<br>
+	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
 
 - **Languages**:
@@ -52,17 +63,6 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
-
-<p align="center">
-  
-- **...**
-- **...**
-- **...**
-- **...**
 
 <br>
   
