@@ -30,7 +30,7 @@
     ![RISC-V](https://img.shields.io/badge/RISC_V-%23123F6D.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     
-- **<h3>Operating systems</h3>**:
+- **<h3>Operating systems</h3>**
 
    ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
