@@ -7,7 +7,8 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 
 <p align="center">
-  
+ 
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">TeleGate Blockchain Paywall System - 2022</a></strong></h3>Description...
 - <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">Vocabulary Sudoku Android App - 2022</a></strong></h3>Description...
 - <h3><strong><a href="https://github.com/Hooyar-Foroughi/Python-Blackjack">Python Blackjack - 2019</a></strong></h3>Description...
 - **...**
