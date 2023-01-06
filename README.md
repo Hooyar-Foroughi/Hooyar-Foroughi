@@ -8,11 +8,9 @@
 
 <p align="center">
  
-- <h3><strong><a href="https://github.com/Hooyar-Foroughi/TeleGate">TeleGate Blockchain Paywall System - 2022</a></strong></h3>Description...
-- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">Vocabulary Sudoku Android App - 2022</a></strong></h3>Description...
-- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Python-Blackjack">Python Blackjack - 2019</a></strong></h3>Description...
-- **...**
-- **...**
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/TeleGate">TeleGate Blockchain Paywall System - 2022</a></strong></h3>TeleGate is an automated blockchain paywall system for private Telegram groups and channels.
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">Vocabulary Sudoku Android App - 2022</a></strong></h3>Vocabulary Sudoku is an educational Android game application for those who are learning new languages and enjoy solving Sudoku puzzles!
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Python-Blackjack">Python Blackjack - 2019</a></strong></h3>Simple Blackjack game designed with Python Turtle Graphics.
 
 <br>
 	
