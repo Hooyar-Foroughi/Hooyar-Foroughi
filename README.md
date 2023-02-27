@@ -68,23 +68,6 @@
   
 -----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Hooyar-Foroughi/">
-	
-  <img src="https://github-readme-stats.vercel.app/api?username=Hooyar-Foroughi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="600"/>
-	
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hooyar-Foroughi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"  alt="Hooyar-Foroughi"/>
-
-</a>
-</div>
-<br>
-
------
-
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55"><b> Let's Connect!</b>
 
 <br>
