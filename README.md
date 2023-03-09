@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=86&center=true&vCenter=true&width=2500&height=250&lines=Hello+World,+it's+Hooyar!+;I'm+Currently+a+BSc+Computing+Science+Student,+;and+I+Love+Everything+Software+Related!+;Welcome+to+my+GitHub!+"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=86&center=true&vCenter=true&width=2500&height=250&lines=Hello+World,+it's+Hooyar!+;Welcome+to+my+GitHub!+"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
