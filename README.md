@@ -7,7 +7,8 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 
 <p align="center">
- 
+
+- <h3><strong><a href="https://github.com/Hooyar-Foroughi/Battleship">AI Battleship with C++ - 2023</a></strong></h3>Single player Battleship game against an AI opponent. Built entirely with C++ and the Qt framework!
 - <h3><strong><a href="https://github.com/Hooyar-Foroughi/TeleGate">TeleGate Blockchain Paywall System - 2022</a></strong></h3>TeleGate is an automated blockchain paywall system for private Telegram groups and channels.
 - <h3><strong><a href="https://github.com/Hooyar-Foroughi/Vocabulary-Sudoku">Vocabulary Sudoku Android App - 2022</a></strong></h3>Vocabulary Sudoku is an educational Android game application for those who are learning new languages and enjoy solving Sudoku puzzles!
 - <h3><strong><a href="https://github.com/Hooyar-Foroughi/CraigsBot">CraigsBot - 2020</a></strong></h3>CraigsBot is an automated search bot for finding vehicles on Craigslist.
