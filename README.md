@@ -1,16 +1,15 @@
 <!-- 
 
-https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=38&duration=3000&pause=400&color=11FF9D&center=true&vCenter=true&width=800&height=80&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub! 
+https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=30&duration=3000&pause=400&color=11FF9D&center=true&vCenter=true&width=800&height=100&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub!
 
 -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&weight=500&size=38&duration=3000&pause=400&color=279CFF&center=true&vCenter=true&width=800&height=80&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&weight=500&size=30&duration=3000&pause=400&color=11FF9D&center=true&vCenter=true&width=800&height=100&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0388.gif" border="0" alt="animated-line-image-0388" width="500" height="2" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
+## <b> Projects</b>
 
 <p align="center">
 
@@ -22,13 +21,13 @@ https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=38&dur
 
 <br>
 	
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
+## <b> Technical Skills</b>
 
 - **<h3>Languages</h3>**
-    
+
+	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![XML](https://img.shields.io/badge/XML-%23776DC3.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -77,7 +76,7 @@ https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=38&dur
 <br>
   
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55"><b> Let's Connect!</b>
+## <b> Let's Connect!</b>
 
 <br>
 <div align='left'>
@@ -114,7 +113,9 @@ https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=38&dur
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0388.gif" border="0" alt="animated-line-image-0388" width="1000" height="2" /></a>
+</p>
 
 <br>
 
