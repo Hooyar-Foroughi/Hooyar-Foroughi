@@ -1,5 +1,11 @@
+<!-- 
+
+https://readme-typing-svg.demolab.com/demo/?font=Cal+Sans&weight=500&size=38&duration=3000&pause=400&color=11FF9D&center=true&vCenter=true&width=800&height=80&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub! 
+
+-->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=86&center=true&vCenter=true&width=2500&height=250&lines=Hello+World,+it's+Hooyar!+;Welcome+to+my+GitHub!+"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&weight=500&size=38&duration=3000&pause=400&color=279CFF&center=true&vCenter=true&width=800&height=80&lines=Hello+world%2C+it's+Hooyar.;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
